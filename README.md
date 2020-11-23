@@ -5,7 +5,7 @@
 ```bash
 git clone git@github.com:Toooo123/Arrays-Linked-Lists.git
 ```
-2. Make the object and executable file: 
+2. Make the objects and executable file: 
 ```bash
 make
 ```
@@ -17,7 +17,7 @@ main
 - Create Random Array
 - Print Array
 - Selection Sort
-- Inserstion Sort
+- Insertion Sort
 - Linear Search
 - Binary Search
 - Merge Sort
