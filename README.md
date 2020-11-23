@@ -3,7 +3,7 @@
 ## Installation
 1. Clone the repository
 ```bash
-git clone git@github.com:Toooo123/Arrays-Linked-Lists.git
+git clone https://github.com/Toooo123/Arrays-Linked-Lists.git
 ```
 2. Make the objects and executable file: 
 ```bash
